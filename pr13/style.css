@@ -8,6 +8,6 @@ text-align: center;
 min-height: 100vh;
 display: flex;
 flex-wrap: wrap;  
-color: red;
+color: rgb(255, 166, 0);
 background-color: rgb(216, 216, 216);
 }
